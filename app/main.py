@@ -68,5 +68,3 @@ class BurgerRecipe:
         self.cutlets = cutlets
         self.eggs = eggs
         self.sauce = sauce
-
-    print("burger will be created")
